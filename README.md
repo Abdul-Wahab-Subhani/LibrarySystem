@@ -25,5 +25,3 @@ java LibraryApp
 
 ## Contributors
 - Abdul Wahab
-- [Mohammad Rayan]
-- [Abdullah]
