@@ -23,13 +23,14 @@ It lets users **add, borrow, return, and search books** with a clean, interactiv
 ---
 
 ## 🧠 Project Structure
-
+```
 LibrarySystem/
 │
 ├── Book.java # Represents a single book
 ├── Library.java # Core library logic and book operations
 ├── LibraryApp.java # Main Swing application (UI)
 └── User.java # User handling and file persistence
+```
 
 ---
 
